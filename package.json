@@ -35,6 +35,6 @@
     "webextensions-jsdom": "^0.15.2"
   },
   "dependencies": {
-    "web-ext": "^3.0.0"
+    "web-ext": "^3.2.1"
   }
 }
